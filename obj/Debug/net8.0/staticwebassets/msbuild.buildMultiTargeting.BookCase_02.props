@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookCase_02.props" />
+</Project>
