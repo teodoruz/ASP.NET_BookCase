@@ -8,12 +8,16 @@ namespace BookCase_02.Controllers
     [ApiController]
     public class AutorController : ControllerBase
     {
-        public AutorModel model = new AutorModel(1, "a", "cx");
+        private static List<AutorModel> autores = new List<AutorModel>
+        {
+            new AutorModel(1,"nome","sobrenome")
+        };
+    
 
-        [HttpGet]
+    [HttpGet]
         public ActionResult<List<AutorModel>> BuscarAutores()
         {
-            return Ok(model);
+            return autores;
    
         }
     }

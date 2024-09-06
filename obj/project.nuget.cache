@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Opuqkr3piAs=",
+  "dgSpecHash": "ll6QAQkgo9Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcos\\source\\repos\\BookCase_02\\BookCase_02\\BookCase_02.csproj",
+  "projectFilePath": "C:\\Users\\Marcos\\Desktop\\ASP.NET\\BookCaseASP.NET\\ASP.NET_BookCase\\BookCase_02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcos\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Marcos\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

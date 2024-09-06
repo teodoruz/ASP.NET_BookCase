@@ -2831,19 +2831,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marcos\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos\\source\\repos\\BookCase_02\\BookCase_02\\BookCase_02.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos\\Desktop\\ASP.NET\\BookCaseASP.NET\\ASP.NET_BookCase\\BookCase_02.csproj",
       "projectName": "BookCase_02",
-      "projectPath": "C:\\Users\\Marcos\\source\\repos\\BookCase_02\\BookCase_02\\BookCase_02.csproj",
+      "projectPath": "C:\\Users\\Marcos\\Desktop\\ASP.NET\\BookCaseASP.NET\\ASP.NET_BookCase\\BookCase_02.csproj",
       "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos\\source\\repos\\BookCase_02\\BookCase_02\\obj\\",
+      "outputPath": "C:\\Users\\Marcos\\Desktop\\ASP.NET\\BookCaseASP.NET\\ASP.NET_BookCase\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
